@@ -15,7 +15,10 @@ This is a working prototype.
 Code is intentionally raw and experimental.
 
 ## Demo
-[![Demo video](https://www.youtube.com/watch?v=8YIhFfnlGuA)
+
+[![Raw live demo](https://img.youtube.com/vi/8YIhFfnlGuA/0.jpg)](https://www.youtube.com/watch?v=8YIhFfnlGuA)
+
+Speedup (2x) live demo of the prototype.
 
 
 ## Disclaimer
