@@ -7,15 +7,16 @@ A real-time reinforcement learning system that plays the
 - Real-time state extraction via computer vision
 - Custom Gymnasium environment
 - PPO with action masking
-- Live inference + mouse/keyboard control
+- Live inference + mouse control
 - Emulator-based deployment
 
 ## Status
-This is a working research prototype.
+This is a working prototype.
 Code is intentionally raw and experimental.
 
 ## Demo
-(coming soon)
+[![Demo video](https://www.youtube.com/watch?v=8YIhFfnlGuA)
+
 
 ## Disclaimer
 This project is for research and educational purposes only.
